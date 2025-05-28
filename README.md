@@ -5,6 +5,9 @@ Built a showcase website featuring various types of responsive navigation bars. 
 Key Features:
 
 •	Multiple navbar styles (basic, dropdown, sticky)
+
 •	Mobile-first responsiveness
+
 •	Clean and reusable CSS code
+
 •	Smooth transitions and hover animations
