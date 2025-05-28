@@ -1,13 +1,18 @@
 # Navbar-Showcase-Website
 
-Built a showcase website featuring various types of responsive navigation bars. The project focuses on modern UI/UX trends such as dropdown menus, sticky navbars, hover effects, and mobile responsiveness.
+# 🧭 Responsive Navbar Showcase
 
-Key Features:
+A responsive navigation bar project showcasing multiple navbar types including sticky, dropdown, and mobile-friendly variations. Built using semantic HTML and clean CSS.
 
-•	Multiple navbar styles (basic, dropdown, sticky)
+## 🚀 Live Demo
+👉 [View Live](https://yourusername.github.io/navbar-showcase)
 
-•	Mobile-first responsiveness
+## 💡 Features
+- Multiple navbar styles
+- Dropdown and toggle functionality
+- Responsive on all screen sizes
+- Sticky header behavior
 
-•	Clean and reusable CSS code
-
-•	Smooth transitions and hover animations
+## 🔧 Technologies Used
+- HTML5
+- CSS3
