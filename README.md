@@ -5,7 +5,7 @@
 A responsive navigation bar project showcasing multiple navbar types including sticky, dropdown, and mobile-friendly variations. Built using semantic HTML and clean CSS.
 
 ## 🚀 Live Demo
-👉 [View Live](https://yourusername.github.io/navbar-showcase)
+👉 [View Live](https://shaqran92.github.io/Navbar-Showcase-Website/)
 
 ## 💡 Features
 - Multiple navbar styles
